@@ -1,0 +1,9 @@
+# Remove a pasta de saída com a transcrição dos áudio 
+transcricoes/
+
+# Remove a pasta de entrada com os arquivos de vídeo a serem transcritos
+videos/
+
+# Remove a pasta do ambiente virtual
+.venv/
+
